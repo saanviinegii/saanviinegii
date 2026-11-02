@@ -1,16 +1,46 @@
-## Hi there 👋
+Hi, I'm Saanvi 👋
 
-<!--
-**saanviinegii/saanviinegii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer in the Making | CSE-AI Undergraduate
 
-Here are some ideas to get you started:
+Building intelligent solutions. Exploring emerging technologies. Turning ideas into impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science undergraduate specializing in Artificial Intelligence, passionate about building practical AI-powered applications and exploring intelligent systems.
+
+I enjoy solving problems, experimenting with new technologies, and transforming innovative ideas into working projects.
+
+
+🧠 About Me
+
+🤖 Exploring Artificial Intelligence & Machine Learning
+
+🧬 Interested in Generative AI and intelligent systems
+
+💻 Practicing Data Structures & Algorithms
+
+🚀 Building real-world AI-powered projects
+
+
+⚡ Tech Stack
+
+# Languages
+
+Python ,Java
+
+
+# Development
+
+Flask Streamlit React Native
+
+# Tools & Technologies
+
+Git GitHub VS Code Neo4j
+
+🌐 Connect With Me
+
+GitHub: @saanviinegii
+
+LinkedIn: [https://www.linkedin.com/in/saanvi-negi-7b5910439/]
+
+Email: [saanvinegi06@gmail.com]
+
+⭐ Learning continuously. Building consistently. Growing with every commit.
